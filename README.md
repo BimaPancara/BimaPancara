@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there 👋 
 
 I'm Bima
 <!--
@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 -->
 - 🛰️ I'm a Telecommunication Engineering Students
 - 🌱 I’m currently learning C++
+- 🐍 Start programming with Python
+- 🥲 Dabble a bit in Fullstack Development but don't expect anything
+- 😄 I try my hand at everything and anything that I could do
+
+Have a Good Day, Friends 👋
